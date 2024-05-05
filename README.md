@@ -4,7 +4,7 @@ Given the dramatic increase in deepfakes and GAN generated images and videos, we
 
 ## View the trained and fine-tuned model
 
-If you want to check out the notebook where the data was preprocessed and the model was trained, you may view `DL_Project.ipynb`.
+If you want to check out the notebook where the data was preprocessed and the model was trained, you may view `DL Project.ipynb`.
 
 ## Report
 
